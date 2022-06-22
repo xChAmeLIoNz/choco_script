@@ -1,3 +1,3 @@
 7zip.install
 brave
-ciao
+notepadplusplus
