@@ -13,3 +13,5 @@ powercfg -duplicatescheme 391fdfc6-f37d-4a08-9c60-1d84e60b1853
 # Set the Scheme active
 powercfg -S 391fdfc6-f37d-4a08-9c60-1d84e60b1853
 Set-ExecutionPolicy RemoteSigned -Scope Process -Force
+Write-Output "ExecutionPolicy set to RemoteSigned"
+Write-Output "You may now want to reboot now..."

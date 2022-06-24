@@ -1,4 +1,3 @@
-
 # If Chocolatey isn't installed, it will download and install it
 if(!(Test-Path -Path "$env:ProgramData\Chocolatey")) {
 
